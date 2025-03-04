@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently on the Dental Analytics team working on improving our workflows and processes.
+
 <!--
 **evan-schein/evan-schein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
